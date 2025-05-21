@@ -1,0 +1,9 @@
+M. Ajay Sivakumar is a passionate and driven Computer Science Engineering student at Hindustan University, Chennai, with a strong interest in aviation and cutting-edge technology. 
+He is actively engaged in Artificial General Intelligence (AGI) research and has authored a notable paper titled “The Self-Learning Agent with a Progressive Neural Network Integrated Transformer”, available on arXiv: https://arxiv.org/html/2504.02489v1.
+In this work, he introduces a novel self-learning agent that integrates LLaMA 3.2 with Progressive Neural Networks (PNN) to enable continual learning across domains like conversational AI and code generation. 
+The system autonomously collects data from Wikipedia, dynamically expands tasks, and leverages Meta-Learning, LoRA, Elastic Weight Consolidation, and experience replay to ensure rapid adaptation and knowledge retention—all while minimizing data requirements. 
+Trained on an RTX 4080 GPU, the model demonstrates strong task adaptability and memory stability, showing promise as a step toward AGI.
+Ajay has also contributed to several other technical projects, including drowsiness detection systems, IoT-based healthcare devices, and crime rate analysis using machine learning. 
+He is the creator of NEET AspirantHub, a free educational platform that uses AR to enhance learning for NEET students.
+Explore his work on GitHub: https://github.com/Aviation169
+

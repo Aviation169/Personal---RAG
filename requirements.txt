@@ -1,0 +1,9 @@
+flask==3.0.3
+werkzeug==3.0.4
+torch==2.4.1
+torchvision==0.19.1
+torchaudio==2.4.1
+transformers==4.44.2
+sentence-transformers==3.1.1
+langchain==0.3.1
+faiss-cpu==1.7.2
